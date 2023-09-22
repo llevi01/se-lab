@@ -84,7 +84,7 @@ public class GT4500 implements SpaceShip {
             wasPrimaryFiredLast = true;
         }
         
-        //either is empty, fire neither
+        //either is empty, no firing
         break;
     }
 
